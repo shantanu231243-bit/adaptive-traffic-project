@@ -1,3 +1,0 @@
-# Documentation
-
-PPT, reports, logbook.
